@@ -6,7 +6,8 @@ I build games, tools, counter-archives, and zines under a decolonial lens. Plura
 
 ## Currently
 
-Building **[Telaris](https://github.com/theagitist/telaris)**. What does memory look like in three dimensions? A self-hosted 3D node-network counter-archive.
+- **[Telaris](https://github.com/theagitist/telaris)**: What does memory look like in three dimensions? A self-hosted 3D node-network counter-archive.
+- **[Journeyways (videogame)](https://play.journeyways.ca)**: Browser-based multiplayer narrative game.
 
 ## Software
 
@@ -18,7 +19,6 @@ Building **[Telaris](https://github.com/theagitist/telaris)**. What does memory 
 ## Print, narrative, research
 
 - **[Journeyways](https://www.journeyways.ca)**: Collaborative sandbox narrative game engine. UBC research project.
-- **[Journeyways (videogame)](https://play.journeyways.ca)**: Browser-based multiplayer narrative game.
 - **Print-and-play games** published at [polivoxia.itch.io](https://polivoxia.itch.io):
   - **[The Ground Remains](https://polivoxia.itch.io/the-ground-remains)**: A ludic performance of structural erasure. Inspired by _Indigenomicon_ by Jodi A. Byrd.
   - **[Experiments of the Self: Titration](https://polivoxia.itch.io/experiments-of-the-self-titration)**: For pairs. Identity as titration. Inspired by _This Bridge Called My Back_.
