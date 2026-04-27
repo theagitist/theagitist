@@ -4,7 +4,7 @@
 
 I build tools, counter-archives, and zines under a decolonial lens. Pluralistic, sovereign over their own data.
 
-## Tools
+## Software
 
 - **[tracet](https://github.com/theagitist/tracet)**: Desktop transcription with speaker ID and word-level confidence. Tauri + whisperX. No cloud APIs.
 - **[pamphlet](https://github.com/theagitist/pamphlet)**: Privacy-first PowerPoint to Word converter. Files purged 10 minutes after conversion. [Live](https://pamphlet.polivoxia.ca).
