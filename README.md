@@ -61,5 +61,3 @@ I build games, tools, counter-archives, and zines under a decolonial lens. Plura
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">&nbsp;
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
 </p>
-
-<img src="assets/banner.jpg" alt="" width="100%">
