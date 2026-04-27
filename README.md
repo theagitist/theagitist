@@ -22,42 +22,9 @@ I build games, tools, counter-archives, and zines under a decolonial lens. Plura
 
 - **[Journeyways (board game)](https://www.journeyways.ca)**: Collaborative sandbox narrative game. UBC research project.
 - **Print-and-play games** published at [polivoxia.itch.io](https://polivoxia.itch.io):
-  - **[The Ground Remains](https://polivoxia.itch.io/the-ground-remains)**: A ludic performance of structural erasure. Inspired by _Indigenomicon_ by Jodi A. Byrd.
-  - **[Experiments of the Self: Titration](https://polivoxia.itch.io/experiments-of-the-self-titration)**: For pairs. Identity as titration. Inspired by _This Bridge Called My Back_.
+  - _[The Ground Remains](https://polivoxia.itch.io/the-ground-remains)_: A ludic performance of structural erasure. Inspired by _Indigenomicon_ by Jodi A. Byrd.
+  - _[Experiments of the Self: Titration](https://polivoxia.itch.io/experiments-of-the-self-titration)_: For pairs. Identity as titration. Inspired by _This Bridge Called My Back_.
 - **Zines** composed in Typst, published at [polivoxia.ca](https://polivoxia.ca):
   - _[She Came Down from the Mountains](https://polivoxia.ca/she_came_down_from_the_mountains/)_: Five generations of women, from Itskazú to Turtle Island. Two volumes, bilingual.
   - _[The Somatic Ghost](https://polivoxia.ca/the_somatic_ghost/)_: A brutalist counter-archive of a chemotherapy cycle. From patient to author.
 
-## Tools & tech
-
-<p align="left">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">&nbsp;
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">&nbsp;
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">&nbsp;
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">&nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">&nbsp;
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">&nbsp;
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">&nbsp;
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
-<img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri">&nbsp;
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">&nbsp;
-<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">&nbsp;
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">&nbsp;
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean">&nbsp;
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">&nbsp;
-<img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale">&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">&nbsp;
-<img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim">&nbsp;
-<img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white" alt="tmux">&nbsp;
-<img src="https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="ffmpeg">&nbsp;
-<img src="https://img.shields.io/badge/Typst-239DAD?style=flat-square&logo=typst&logoColor=white" alt="Typst">&nbsp;
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">&nbsp;
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
-</p>
