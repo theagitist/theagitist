@@ -17,7 +17,7 @@ I build tools, counter-archives, and zines under a decolonial lens. Pluralistic,
 - **Games** published at [polivoxia.itch.io](https://polivoxia.itch.io):
   - **[The Ground Remains](https://polivoxia.itch.io/the-ground-remains)**: A ludic performance of structural erasure. Inspired by _Indigenomicon_ by Jodi A. Byrd.
   - **[Experiments of the Self: Titration](https://polivoxia.itch.io/experiments-of-the-self-titration)**: Print-and-play game for pairs. Identity as titration. Inspired by _This Bridge Called My Back_.
-- **Zines** composed in Typst (e.g. _She Came Down from the Mountains_, _The Somatic Ghost_), published at [polivoxia.ca](https://polivoxia.ca).
+- **Zines** composed in Typst (e.g. _[She Came Down from the Mountains](https://polivoxia.ca/she_came_down_from_the_mountains/)_, _[The Somatic Ghost](https://polivoxia.ca/the_somatic_ghost/)_), published at [polivoxia.ca](https://polivoxia.ca).
 
 ## Currently
 
