@@ -13,10 +13,10 @@ I build games, tools, counter-archives, and zines under a decolonial lens. Plura
 
 ## Software
 
-- **[tracet](https://github.com/theagitist/tracet)**: Desktop transcription with speaker ID and word-level confidence. Tauri + whisperX. No cloud APIs.
-- **[pamphlet](https://github.com/theagitist/pamphlet)**: Privacy-first PowerPoint to Word converter. Files purged 10 minutes after conversion. [Live](https://pamphlet.polivoxia.ca).
-- **[plica](https://github.com/theagitist/plica)**: Fold a PDF into a saddle-stitched booklet, entirely in the browser.
-- **[tacet](https://github.com/theagitist/tacet)** & **[stretto](https://github.com/theagitist/stretto)**: Local audio CLIs for trimming silence and mixing voiceovers. Run on your machine, no uploads.
+- **[Tracet](https://github.com/theagitist/tracet)**: Desktop transcription with speaker ID and word-level confidence. Tauri + whisperX. No cloud APIs.
+- **[Pamphlet](https://github.com/theagitist/pamphlet)**: Privacy-first PowerPoint to Word converter. Files purged 10 minutes after conversion. [Live](https://pamphlet.polivoxia.ca).
+- **[Plica](https://github.com/theagitist/plica)**: Fold a PDF into a saddle-stitched booklet, entirely in the browser.
+- **[Tacet](https://github.com/theagitist/tacet)** & **[Stretto](https://github.com/theagitist/stretto)**: Local audio CLIs for trimming silence and mixing voiceovers. Run on your machine, no uploads.
 
 ## Print, narrative, research
 
