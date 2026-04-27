@@ -1,5 +1,7 @@
 # Adri M.
 
+[polivoxia.ca](https://polivoxia.ca) · [itch.io](https://polivoxia.itch.io) · [Instagram](https://instagram.com/theagitist)
+
 I build tools, counter-archives, and zines under a decolonial lens. Pluralistic, sovereign over their own data.
 
 ## Tools
@@ -51,7 +53,3 @@ Building **[Telaris](https://github.com/theagitist/telaris)**, a memory-weaving 
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">&nbsp;
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
 </p>
-
-## Elsewhere
-
-[polivoxia.ca](https://polivoxia.ca) · [itch.io](https://polivoxia.itch.io) · [Instagram](https://instagram.com/theagitist)
