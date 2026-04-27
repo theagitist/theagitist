@@ -7,7 +7,7 @@ I build games, tools, counter-archives, and zines under a decolonial lens. Plura
 ## Currently
 
 - **[Telaris](https://github.com/theagitist/telaris)**: What does memory look like in three dimensions? A self-hosted 3D node-network counter-archive.
-- **[Journeyways (videogame)](https://play.journeyways.ca)**: Browser-based multiplayer narrative game.
+- **[Journeyways (videogame)](https://play.journeyways.ca)**: Browser-based multiplayer narrative game. UBC research project.
 
 ## Software
 
