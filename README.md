@@ -1,6 +1,6 @@
 <img src="assets/banner.jpg" alt="" width="100%">
 
-# Adri M.
+# Adri M. (theAgitist)
 
 [polivoxia.ca](https://polivoxia.ca) · [itch.io](https://polivoxia.itch.io) · [Instagram](https://instagram.com/theagitist) · [ORCID](https://orcid.org/0009-0000-2834-2780)
 
