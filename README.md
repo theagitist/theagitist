@@ -6,7 +6,7 @@ I build games, tools, counter-archives, and zines under a decolonial lens. Plura
 
 ## Currently
 
-Building **[Telaris](https://github.com/theagitist/telaris)**, a memory-weaving project.
+Building **[Telaris](https://github.com/theagitist/telaris)**. What does memory look like in three dimensions? A self-hosted 3D node-network counter-archive.
 
 ## Software
 
