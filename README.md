@@ -18,8 +18,8 @@ I build tools, counter-archives, and zines under a decolonial lens. Pluralistic,
   - **[The Ground Remains](https://polivoxia.itch.io/the-ground-remains)**: A ludic performance of structural erasure. Inspired by _Indigenomicon_ by Jodi A. Byrd.
   - **[Experiments of the Self: Titration](https://polivoxia.itch.io/experiments-of-the-self-titration)**: For pairs. Identity as titration. Inspired by _This Bridge Called My Back_.
 - **Zines** composed in Typst, published at [polivoxia.ca](https://polivoxia.ca):
-  - _[She Came Down from the Mountains](https://polivoxia.ca/she_came_down_from_the_mountains/)_
-  - _[The Somatic Ghost](https://polivoxia.ca/the_somatic_ghost/)_
+  - _[She Came Down from the Mountains](https://polivoxia.ca/she_came_down_from_the_mountains/)_: Five generations of women, from Itskazú to Turtle Island. Two volumes, bilingual.
+  - _[The Somatic Ghost](https://polivoxia.ca/the_somatic_ghost/)_: A brutalist counter-archive of a chemotherapy cycle. From patient to author.
 
 ## Currently
 
