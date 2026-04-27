@@ -1,6 +1,6 @@
 # Adri M.
 
-[polivoxia.ca](https://polivoxia.ca) · [itch.io](https://polivoxia.itch.io) · [Instagram](https://instagram.com/theagitist)
+[polivoxia.ca](https://polivoxia.ca) · [itch.io](https://polivoxia.itch.io) · [Instagram](https://instagram.com/theagitist) · [ORCID](https://orcid.org/0009-0000-2834-2780)
 
 I build tools, counter-archives, and zines under a decolonial lens. Pluralistic, sovereign over their own data.
 
